@@ -1,1 +1,2 @@
-# Disease-Detectionn
+# Disease-Detection
+This project combines soft computing and image processing modules. Training dataset for different classes (here 4 classes) has been provided already but still one can create own dataset by running particular module (i.e. Leaf_Mold.m, Healthy_trainingset.m, Septoria.m, Bacterial_spot.m etc )Remember here, code for every class is same. For final execution run (detec.m) module. Try more features by studing related work. 
